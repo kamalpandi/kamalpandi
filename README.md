@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with: **2D game - Space Invaders**
 
-- 👨‍💻 All of my projects are available at: [My GitHub](https://github.com/kamalpandi)
+- 👨‍💻 All of my projects are available at: [My GitHub](https://github.com/kamalpandi?tab=repositories)
 
 - 💬 Ask me about: **Python**
 
