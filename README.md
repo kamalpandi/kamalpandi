@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Backend Engineer from India</h3>
 
 - 🔭 I’m currently working on: [Background Remover](https://github.com/kamalpandi/bgRemover.git)
 
