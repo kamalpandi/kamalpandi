@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A passionate Backend Engineer from India</h3>
 
-- 🔭 I’m currently working on: [100 mini Js projects](https://github.com/kamalpandi/100_js_projects)
+- 🔭 I’m currently working on: [**Asteroids Game**](https://github.com/kamalpandi/Asteroids-Game)
 
-- 🌱 I’m currently learning: **React**
+- 🌱 I’m currently learning: [**React/NodeJS(express)**](https://github.com/kamalpandi/node-crash-course)
 
-- 👯 I’m looking to collaborate on: [Covid-19 DataScience](https://github.com/kamalpandi/MCA_Project)
+- 👯 I’m looking to collaborate on: [**Lua**](https://github.com/kamalpandi/lua)
 
-- 🤝 I’m looking for help with: **picoCTF**
+- 🤝 I’m looking for help with: [**picoCTF**](https://play.picoctf.org/users/kamal144)
 
-- 👨‍💻 All of my projects are available at: [My GitHub](https://github.com/kamalpandi?tab=repositories)
+- 💬 Ask me about: [**Data Analytics**](https://github.com/kamalpandi/MCA_Project)
 
-- 💬 Ask me about: **Cryptography**
+- 👨‍💻 All of my projects are available at: [**My GitHub**](https://github.com/kamalpandi?tab=repositories)
 
 - 📫 How to reach me: [Email](kamalpandi123@gmail.com)
 
