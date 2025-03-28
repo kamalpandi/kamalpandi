@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at: [**My GitHub**](https://github.com/kamalpandi?tab=repositories)
 
-- 📫 How to reach me: [Email](kamalpandi123@gmail.com)
+- 📫 How to reach me: [Email](vibi144@proton.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
