@@ -12,7 +12,7 @@
 
 -  All of my projects are available at: [**My GitHub**](https://github.com/kamalpandi?tab=repositories)
 
--  reach me: [Email](mailto:vibi144@proton.me)
+-  Reach me: [Email](mailto:vibi144@proton.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
