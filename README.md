@@ -2,7 +2,7 @@
   <img src="https://api.boot.dev/v1/users/public/6f1a4ce8-2400-48c4-9a55-eb734a368617/thumbnail" >
 </p>
 
-- I’m currently working on: [**A simple django project that can hold all my projects to showoff**](https://github.com/kamalpandi/Django-api-server)
+- I’m currently working on: [**A simple django project that can hold all my projects to showoff**](https://django-frontend-two.vercel.app/)
 
 - I’m looking to collaborate on: [**This game i have ideas to improve but need some help**](https://github.com/kamalpandi/Asteroids-Game)
 
