@@ -53,6 +53,15 @@ All of my projects are available at: [**My GitHub**](https://github.com/kamalpan
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" title="Postman"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" title="PyTorch"/></td>
   </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" title="Lua"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40" height="40" title="Neovim"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40" height="40" title="Vite"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" title="GitHub Actions"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" title="Azure"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" height="40" title="pytest"/></td>
+  </tr>
 </table>
 
 ### AI / RAG stack
@@ -64,6 +73,9 @@ All of my projects are available at: [**My GitHub**](https://github.com/kamalpan
   <img src="https://img.shields.io/badge/ChromaDB-FFDE2D?style=flat-square&logoColor=black" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logoColor=white" alt="pgvector" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/llama.cpp-0B5FFF?style=flat-square&logoColor=white" alt="llama.cpp" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/htmx-3366CC?style=flat-square&logoColor=white" alt="htmx" />
   <img src="https://img.shields.io/badge/uv-0B5FFF?style=flat-square&logoColor=white" alt="uv" />
 </p>
