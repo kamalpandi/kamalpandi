@@ -68,17 +68,17 @@ All of my projects are available at: [**My GitHub**](https://github.com/kamalpan
   <img src="https://img.shields.io/badge/uv-0B5FFF?style=flat-square&logoColor=white" alt="uv" />
 </p>
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalpandi&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-stats-extended.vercel.app/api?username=kamalpandi&theme=radical" height="160" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalpandi&layout=compact&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=kamalpandi&theme=radical" alt="GitHub streak" />
-</p>
+<!-- ### GitHub Stats -->
+<!---->
+<!-- <p align="left"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=kamalpandi&show_icons=true&theme=radical" height="160" /> -->
+<!--   <img src="https://github-stats-extended.vercel.app/api?username=kamalpandi&theme=radical" height="160" /> -->
+<!-- </p> -->
+<!---->
+<!-- <p align="left"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalpandi&layout=compact&theme=radical" height="160" /> -->
+<!--   <img src="https://streak-stats.demolab.com/?user=kamalpandi&theme=radical" alt="GitHub streak" /> -->
+<!-- </p> -->
 
 ### Currently learning
 
