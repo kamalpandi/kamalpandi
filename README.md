@@ -1,4 +1,4 @@
-# Hi, I'm Kamal Pandi 👋
+# Hi, I'm Kamal Pandi
 
 **Backend Engineer building AI systems**
 
@@ -13,7 +13,7 @@ Specialized in Python, FastAPI/Django, and agentic frameworks (LangChain, LangGr
   <a href="mailto:kamalpandi123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 🚀 Featured projects
+### Featured projects
 
 - **[Ragworks — Modular RAG Framework](https://github.com/kamalpandi/Ragworks)** — vendor-agnostic, production-ready RAG pipeline (FastAPI + PGVector/Pinecone) with async ingestion, query translation (HyDE, Multi-Query, Step-Back, RAG Fusion), and an htmx dashboard.
 - **[Code Crawler — Local Codebase Q&A Agent](https://github.com/kamalpandi/code-crawler-ollama)** — index a repo and chat with it in natural language, or run an autonomous LangGraph agent. Flask + Ollama + ChromaDB, fully local.
@@ -55,7 +55,7 @@ All of my projects are available at: [**My GitHub**](https://github.com/kamalpan
   </tr>
 </table>
 
-### 🤖 AI / RAG stack
+### AI / RAG stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" alt="LangChain" />
@@ -68,24 +68,25 @@ All of my projects are available at: [**My GitHub**](https://github.com/kamalpan
   <img src="https://img.shields.io/badge/uv-0B5FFF?style=flat-square&logoColor=white" alt="uv" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalpandi&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalpandi&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalpandi&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kamalpandi&theme=radical" height="160" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=kamalpandi&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalpandi&layout=compact&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=kamalpandi&theme=radical" alt="GitHub streak" />
 </p>
 
-### 🌱 Currently learning
+### Currently learning
 
 <p align="left">
   <a href="https://www.boot.dev/u/helplessmodel11"><img src="https://api.boot.dev/v1/users/public/6f1a4ce8-2400-48c4-9a55-eb734a368617/thumbnail" width="160" style="border-radius:50%" alt="Boot.dev profile" /></a>
 </p>
 
-### 📫 Connect with me
+### Connect with me
 
 <p align="left">
   <table>
