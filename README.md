@@ -1,4 +1,4 @@
-# Hi, I'm Kamal Pandi
+# Hi, I'm Kamal
 
 **Backend Engineer building AI systems**
 
