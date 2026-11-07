@@ -36,8 +36,6 @@ PROFILE = {
     "name": "Kamal Pandi V",
     "handle": "kamalpandi",
     "role": "Software Engineer",
-    "company": "GAAN Software",
-    "company_url": "https://gaansoft.com/",
     "location": "Bengaluru, India",
     "headline": "Backend Engineer · Agentic AI & RAG",
     "email": "kamalpandi123@gmail.com",
@@ -384,11 +382,11 @@ def render(user: dict, repos: list[dict]) -> str:
 
 ## 👋 About me
 
-I'm a **{PROFILE['role']}** at **[{PROFILE['company']}]({PROFILE['company_url']})** in {PROFILE['location']}, building **Dexxion**, an AI-backed enterprise integration platform.
+I'm a **{PROFILE['role']}** in {PROFILE['location']}, building **AI-backed enterprise integration systems**.
 
 My work sits at the intersection of **agentic AI and workflow orchestration** — RAG pipelines, autonomous agents, and the modular backend architecture that makes AI-driven flow builders work in production.
 
-Before the AI focus, I built secure backend systems for German enterprise clients: **fintech integrations (SEPA, Open Banking)**, **TLS-based credit bureau authentication (Schufa)**, and **lottery backend logic for lotto.de**.
+Before the AI focus, I built secure backend systems for German enterprise clients: **fintech integrations (SEPA, Open Banking)**, **TLS-based credit bureau authentication**, and **lottery backend logic with RESTful APIs**.
 
 - 🔭 **Currently building** — production RAG pipelines, agentic workflows, and config-driven integrations
 - 🧠 **Exploring** — bare-metal C, AVR, embedded networking, and application security
@@ -451,13 +449,12 @@ Before the AI focus, I built secure backend systems for German enterprise client
 
 ## 💼 Experience
 
-**{PROFILE['role']}** · [{PROFILE['company']}]({PROFILE['company_url']}) · {PROFILE['location']}
+**{PROFILE['role']}** · {PROFILE['location']}
 
-> Building **Dexxion**, an AI-backed enterprise integration platform.
-
-- Design agentic AI and workflow-orchestration features — RAG pipelines, autonomous agents, and modular backend services.
-- Cut customer integration setup time by **50–75%** with config-driven workflows.
-- Previously built secure backends for German enterprise clients: **SEPA Direct Debit**, **Open Banking**, **Schufa TLS authentication**, and **LOTTO (lotto.de)** fair-selection logic.
+- Build AI-backed enterprise integration features: RAG pipelines, autonomous agents, workflow orchestration, and modular backend services.
+- Design config-driven integration workflows that cut customer setup time by **50–75%**.
+- Built secure fintech backend components — **SEPA Direct Debit**, **Open Banking**, and **TLS-based credit bureau authentication**.
+- Implemented backend logic and fair-selection algorithms for a **national lottery platform**.
 
 **MCA, Computer Applications** · The American College · 2021–2023
 
